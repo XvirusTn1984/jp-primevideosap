@@ -1,0 +1,10 @@
+cd /Users/spacej/jps
+cat > wrangler.jsonc << 'EOF'
+{
+  "name": "jp-primevideosap",
+  "compatibility_date": "2025-07-20",
+  "assets": {
+    "directory": "."
+  }
+}
+EOF
